@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Infernix</h1>
+<h1 align="center">Hey 👋, IПF here</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | App & Web Developer 💻 Passionate Coder | AI & Chatbot Developer | MERN Stack Learner 🎯 Building Infernix AI | CS Student | Software & App Developer</h3>
 
 - 🔭 I’m currently working on **Infernix-Ai**  
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="left">Hey 👋! IПF here</h2>
+<h2 align="left">Hi 👋! I'm IПFΣЯПIX</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-Infernix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
