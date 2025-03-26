@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, IПF here</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Enthusiast | App & Web Developer 💻 Passionate Coder | AI & Chatbot Developer | MERN Stack Learner 🎯 Building Infernix AI | CS Student | Software & App Developer</h3>
+<h3 align="center">📱APP-DEVELOPER|🚀 Full-Stack Developer | MERN Enthusiast  | AI & Chatbot Developer | MERN Stack Learner 🎯 Building Infernix AI | CS Student | Software & App Developer</h3>
 
 - 🔭 I’m currently working on **Infernix-Ai**  
 - 🌱 I’m currently learning **MERN**  
