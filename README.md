@@ -18,7 +18,10 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="./inf.gif" height="150" />
+</div>
+
 
 ---
 
