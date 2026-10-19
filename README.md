@@ -1,11 +1,21 @@
-<h1 align="center">Hey 👋, IПF here</h1>
-<h3 align="center">📱APP-DEVELOPER|🚀 Full-Stack Developer | MERN Enthusiast  | AI & Chatbot Developer | MERN Stack Learner 🎯 Building Infernix AI | CS Student | Software & App Developer</h3>
+<h1 align="center">Hey 👋, I'm Pavan Ganesh Indupudi</h1>
+<h3 align="center">Also known as Infernix (IПFΣЯПIX) · AI/ML &amp; Open Source · CS Student · Software &amp; App Developer</h3>
 
-- 🔭 I’m currently working on **Infernix-Ai**  
-- 🌱 I’m currently learning **MERN**  
-- 👯️ I’m looking to collaborate on **MERN & APP-DEVELOPMENT**  
-- 💬 Ask me about **Android Development**  
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/The-Infernix/The-Infernix/main/inf.gif" height="150" alt="Infernix" />
+</div> -->
 
+<p align="center">
+  <a href="https://the-infernix.github.io/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pavan-indupudi-a38759334">💼 LinkedIn</a>
+</p>
+
+- 🔭 I’m currently working on **Infernix-Ai**
+- 🌱 I’m currently learning **MERN**
+- 👯 I’m looking to collaborate on **MERN & APP-DEVELOPMENT**
+- 💬 Ask me about **Android Development**
+
+I'm **Pavan Ganesh Indupudi**, a Computer Science & Engineering student at Andhra University who builds under the name **Infernix**. My work focuses on privacy-preserving AI, RAG systems, and useful developer tooling — see [the-infernix.github.io](https://the-infernix.github.io/) for PRIVYSE, VOICE-RAG, SourceTrail and Viora.
 
 ---
 
@@ -16,12 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Infernix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
----
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="./inf.gif" height="150" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/The-Infernix/The-Infernix/main/inf.gif" height="150" alt="Infernix" />
 </div>
-
 
 ---
 
@@ -58,6 +66,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+  <a href="https://the-infernix.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=ff9f2e&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavan-indupudi-a38759334" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
   <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
@@ -72,9 +86,6 @@
   </a>
   <a href="mailto:the.team.x.op@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
 
