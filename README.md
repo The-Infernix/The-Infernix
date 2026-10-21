@@ -7,15 +7,26 @@
 
 <p align="center">
   <a href="https://the-infernix.github.io/">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/pavan-indupudi-a38759334">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pavanindupudi">💼 LinkedIn</a> ·
+  <a href="https://dev.to/the_infernix">📝 Blog</a>
 </p>
 
-- 🔭 I’m currently working on **Infernix-Ai**
-- 🌱 I’m currently learning **MERN**
-- 👯 I’m looking to collaborate on **MERN & APP-DEVELOPMENT**
-- 💬 Ask me about **Android Development**
+- 🔭 I’m currently working on **PRIVYSE** — a privacy-first browser agent that sanitizes the screen on-device before a model ever sees it
+- 🎙️ Also building **VOICE-RAG** — multilingual spoken-QA that refuses off-corpus questions instead of hallucinating
+- 📓 Writing the **Infernix Engineering Journal** — benchmarked, defect-documented deep dives on [the-infernix.github.io/blog](https://the-infernix.github.io/blog/)
+- 💬 Ask me about **Browser Extension Architecture**, **On-Device ML**, and **Android**
 
 I'm **Pavan Ganesh Indupudi**, a Computer Science & Engineering student at Andhra University who builds under the name **Infernix**. My work focuses on privacy-preserving AI, RAG systems, and useful developer tooling — see [the-infernix.github.io](https://the-infernix.github.io/) for PRIVYSE, VOICE-RAG, SourceTrail and Viora.
+
+---
+
+<h3 align="left">📓 Engineering Journal</h3>
+
+Deep dives on the systems above — the measurements, the design trade-offs, and the defects we documented instead of burying:
+
+- [Debugging Browser-Based ML Inference: Lessons from ONNX Runtime Web](https://the-infernix.github.io/blog/posts/debugging-browser-ml-inference-onnx.html) — a batched-input bug that silently corrupted every tile it touched
+- [Building PRIVYSE: Designing a Privacy-First Browser Agent](https://the-infernix.github.io/blog/posts/privyse-privacy-first-browser-agent.html) — on-device sanitization, a fail-closed gate, and PII detection at F1 0.984
+- [Inside VOICE-RAG: From Speech to Grounded Answers](https://the-infernix.github.io/blog/posts/voice-rag-speech-to-grounded-answers.html) — calibrated per-language refusal floors for a 40,000-passage corpus
 
 ---
 
@@ -69,17 +80,17 @@ I'm **Pavan Ganesh Indupudi**, a Computer Science & Engineering student at Andhr
   <a href="https://the-infernix.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=ff9f2e&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/pavan-indupudi-a38759334" target="_blank">
+  <a href="https://www.linkedin.com/in/pavanindupudi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
+  <a href="https://dev.to/the_infernix" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dev.to logo" />
+  </a>
+  <a href="https://infernix.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hashnode logo" />
   </a>
   <a href="https://www.instagram.com/the_infernix/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://www.twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
   </a>
   <a href="https://discord.gg/EQArUn2TJ5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
